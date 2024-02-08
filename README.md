@@ -2,7 +2,7 @@
 This is my Demo repository
 
 # Teacher
-Dev patiadr
+Dev patiadar
 
 # student
-Dev patiadr
+Dev patiadar
